@@ -13,4 +13,3 @@ function deleteFromObjectByKey(object, key) {
   delete x.y;
   return x;
 }
-
